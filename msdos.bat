@@ -3,7 +3,7 @@ color 0A
 :username
 cls 
 set /p usrnm=Username:
-if %usrnm%==parteh (
+if %usrnm%==USERNAMEHERE (
 cls
 goto menu
 )
