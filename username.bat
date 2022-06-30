@@ -5,6 +5,13 @@ cls
 set /p usrnm=Username:
 if %usrnm%==parteh (
 cls
-msdos.bat
+goto password
 )
 goto username
+:password
+set /p pswrd=Password:
+if %pswrd%==12345 (
+cls
+msdos.bat
+)
+goto password
