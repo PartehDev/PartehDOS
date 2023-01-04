@@ -1,3 +1,0 @@
-How to install Vivaldi:
-
-Step 1: go to https://vivaldi.com/ and click the "Download Vivaldi" button. Then, when it tells you where you wanna install it, put it in the folder that I said in the README.md file.
